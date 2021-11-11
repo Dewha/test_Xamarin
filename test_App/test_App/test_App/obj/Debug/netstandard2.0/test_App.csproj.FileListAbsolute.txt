@@ -14,3 +14,5 @@ C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\X
 C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\test_App.dll
 C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\ref\test_App.dll
 C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\test_App.pdb
+C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+C:\Users\User\source\repos\test_App\test_App\test_App\obj\Debug\netstandard2.0\Views\ImagePage.xaml.g.cs

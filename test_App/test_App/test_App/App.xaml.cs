@@ -10,8 +10,7 @@ namespace test_App
         public App()
         {
             InitializeComponent();
-
-            MainPage = new NavigationPage(new ChannelsPage());
+            MainPage = new NavigationPage(new StartPage());
         }
 
         protected override void OnStart()

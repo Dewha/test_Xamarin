@@ -15,6 +15,9 @@ namespace test_App.Models
         [XmlAttribute("IsSoundOn")]
         public string IsSoundOn { get; set; }
 
+        [XmlAttribute("IsDisabled")]
+        public string IsDisabled { get; set; }
+
         [XmlIgnore]
         public string IsRecordingOn { get; set; }
 

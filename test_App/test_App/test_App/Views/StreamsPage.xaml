@@ -20,6 +20,6 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-
+        <Button Text="Получить изображение" Clicked="OnGetImageButtonClicked"></Button>
     </StackLayout>
 </ContentPage>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test_App.Views.StartPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Вход"
+                   FontSize="Title"
+                   Margin="20"/>
+            <Entry x:Name="server" Margin="20,0,20,20" Placeholder="Сервер"></Entry>
+            <Entry x:Name="login" Margin="20,0,20,20" Placeholder="Логин"></Entry>
+            <Entry x:Name="password" Margin="20,0,20,20" Placeholder="Пароль"></Entry>
+            <Button Text="Войти" Clicked="OnButtonClicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
